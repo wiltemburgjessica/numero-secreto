@@ -11,7 +11,7 @@ function titulo(tag, texto) {
 
 function mensagemInicial() {
     titulo('h1', 'Jogo do numero secreto');
-    titulo('p', 'digite um numero de 1 a 10');   
+    titulo('p', 'digite um numero de 1 a 100');   
 }
 
 mensagemInicial();
